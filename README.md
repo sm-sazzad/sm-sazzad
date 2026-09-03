@@ -104,7 +104,8 @@ I'm currently focusing on Web Development to build a strong foundation, gain pra
 ![](https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-
+---
+[![](https://komarev.com/ghpvc/?username=sm-sazzad&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 ## 🌐 Coding Profiles
