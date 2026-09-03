@@ -76,11 +76,6 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 I'm currently focusing on Web Development to build a strong foundation, gain practical experience, and continuously improve my problem-solving and programming skills. Step by step, I want to grow from building websites and applications into becoming a versatile software engineer.
 
----
-
-📊 GitHub Statistics
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sm-sazzad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="180" alt="GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-sazzad&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Most Used Languages" /> </div>
 
 ---
 
@@ -92,13 +87,24 @@ I'm currently focusing on Web Development to build a strong foundation, gain pra
 
 ---
 
-📈 GitHub Activity
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sm-sazzad&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sm-sazzad&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sm-sazzad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm-sazzad&hide_border=true&theme=github-compact" width="95%" alt="GitHub Activity Graph" /> </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🏆 GitHub Trophies
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=flat&no-frame=true&no-bg=true&margin-w=10" width="95%" alt="GitHub Trophies" /> </div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sm-sazzad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=sm-sazzad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
