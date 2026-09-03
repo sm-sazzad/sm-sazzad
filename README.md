@@ -101,17 +101,9 @@ I'm currently focusing on Web Development to build a strong foundation, gain pra
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+![](https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/><br/>
 
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=sm-sazzad&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sm-sazzad&icon=0&color=0" />
 
 </div>
 
