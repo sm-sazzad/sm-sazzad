@@ -78,12 +78,9 @@ I'm currently focusing on Web Development to build a strong foundation, gain pra
 
 ---
 
-## 📊 GitHub Statistics
+##📊 GitHub Statistics
 
-<div align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats">
-  <img src="./profile/top-langs.svg" height="180" alt="Most Used Languages">
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sm-sazzad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="180" alt="GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-sazzad&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Most Used Languages" /> </div>
 
 ---
 
@@ -95,19 +92,13 @@ I'm currently focusing on Web Development to build a strong foundation, gain pra
 
 ---
 
-## 📈 GitHub Activity
+##📈 GitHub Activity
 
-<div align="center">
-  <img src="./profile/activity.svg" alt="GitHub Activity Graph" width="95%">
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm-sazzad&hide_border=true&theme=github-compact" width="95%" alt="GitHub Activity Graph" /> </div>
 
----
+##🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies">
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=flat&no-frame=true&no-bg=true&margin-w=10" width="95%" alt="GitHub Trophies" /> </div>
 
 ---
 
