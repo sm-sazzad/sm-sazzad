@@ -32,22 +32,22 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,python" alt="Languages">
 </div>
 
-### Frontend
+### ⚛️Frameworks & Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,react" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" alt="Frontend Technologies">
 </div>
 
-### Tools
+### 🛠️Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development Tools">
 </div>
 
 ---
@@ -56,6 +56,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 - ⚛️ React
 - 🔷 TypeScript
+-  ▲ Next JS
 - 🟨 Advanced JavaScript
 - 🧠 Data Structures & Algorithms
 - 🌐 Modern Frontend Development
