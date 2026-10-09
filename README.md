@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Sheikh Md Sazzad Hossain - Web Developer" width="100%">
+<img src="banner1.png" alt="Sheikh Md Sazzad Hossain - Web Developer" width="100%">
 
 <h1>👋 Hi, I'm Sheikh Md Sazzad Hossain</h1>
 
