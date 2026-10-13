@@ -18,7 +18,7 @@
 
 <b>
 <a href="#-about">About</a> &nbsp;•&nbsp;
-<a href="#-tech-stack">Stack</a> &nbsp;•&nbsp;
+<a href="#️-tech-stack">Stack</a> &nbsp;•&nbsp;
 <a href="#-roadmap">Roadmap</a> &nbsp;•&nbsp;
 <a href="#-github-analytics">Analytics</a> &nbsp;•&nbsp;
 <a href="#-connect">Connect</a>
@@ -54,32 +54,22 @@ I'm passionate about building **modern, fast and user-friendly** web experiences
 
 ## 🛠️ Tech Stack
 
+### 💻Languages
+
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,python" alt="Languages">
+</div>
 
-<table>
-<tr>
-<td align="center" width="33%">
+### ⚛️Frameworks & Libraries
 
-**💻 Languages**<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,python&theme=dark&perline=4" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" alt="Frontend Technologies">
+</div>
 
-</td>
-<td align="center" valign="top" width="33%">
+### 🛠️Tools & Platforms
 
-**⚛️ Frameworks & Libraries**<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=3" />
-<img src="https://cdn.simpleicons.org/betterauth" height="50" alt="Better Auth" />
-
-</td>
-<td align="center" width="33%">
-
-**🧰 Tools & Platforms**<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark&perline=3" />
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development Tools">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:00d4ff&height=2&section=header" width="100%" />
@@ -88,23 +78,60 @@ I'm passionate about building **modern, fast and user-friendly** web experiences
 
 ## 🧭 Roadmap
 
-```mermaid
-flowchart LR
-    A([HTML · CSS · JS]) --> B([Tailwind CSS])
-    B --> C([TypeScript])
-    C --> D([React])
-    D --> E([Next.js])
-    E --> F([Better Auth])
-    F --> G{{🚀 Frontend Developer}}
+<i>Learn → Build → Improve → Grow</i>
 
-    style A fill:#24243e,stroke:#a855f7,color:#fff
-    style B fill:#24243e,stroke:#a855f7,color:#fff
-    style C fill:#24243e,stroke:#00d4ff,color:#fff
-    style D fill:#24243e,stroke:#00d4ff,color:#fff
-    style E fill:#24243e,stroke:#00d4ff,color:#fff
-    style F fill:#24243e,stroke:#a855f7,color:#fff
-    style G fill:#a855f7,stroke:#00d4ff,color:#fff
-```
+<table>
+  <tr>
+    <td width="70" align="center"><b>01</b></td>
+    <td>
+      <b>Web Fundamentals</b><br/>
+      Master the fundamentals of HTML, CSS, and JavaScript.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>02</b></td>
+    <td>
+      <b>Tailwind CSS</b><br/>
+      Learn to build modern, responsive user interfaces.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>03</b></td>
+    <td>
+      <b>TypeScript</b><br/>
+      Write type-safe, maintainable, and reliable code.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>04</b></td>
+    <td>
+      <b>React</b><br/>
+      Build reusable components and interactive applications.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>05</b></td>
+    <td>
+      <b>Next.js</b><br/>
+      Learn routing, rendering, and full-stack development concepts.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>06</b></td>
+    <td>
+      <b>Better Auth</b><br/>
+      Implement authentication and manage secure user sessions.
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:00d4ff&height=2&section=header" width="100%" />
+
+## 🎯 My Goal
+
+> My ultimate goal is to become a skilled **Software Engineer**.
+
+I'm currently focusing on Web Development to build a strong foundation, gain practical experience, and continuously improve my problem-solving and programming skills. Step by step, I want to grow from building websites and applications into becoming a versatile software engineer.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:00d4ff&height=2&section=header" width="100%" />
 
@@ -114,24 +141,34 @@ flowchart LR
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.shion.dev/api?username=sm-sazzad&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&border_color=302b63&bg_color=0d1117&title_color=a855f7&icon_color=00d4ff&text_color=c9d1d9&ring_color=a855f7" alt="Stats" />
-<img height="190" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sm-sazzad&layout=compact&hide_border=false&border_radius=14&border_color=302b63&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
+## 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=sm-sazzad&theme=tokyonight&hide_border=false&border_radius=14&stroke=302b63&ring=a855f7&fire=00d4ff&currStreakLabel=a855f7" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sm-sazzad&bg_color=0d1117&color=a855f7&line=00d4ff&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
+## 📊 GitHub Statistics
 
-<br/>
+<img height="190" src="https://github-readme-stats.shion.dev/api?username=sm-sazzad&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&border_color=302b63&bg_color=0d1117&title_color=a855f7&icon_color=00d4ff&text_color=c9d1d9&ring_color=a855f7" alt="Stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+<br/><br/>
+
+## Most Used Language
+
+<img height="190" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sm-sazzad&layout=compact&hide_border=false&border_radius=14&border_color=302b63&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top Languages" />
+
+<br/><br/>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=sm-sazzad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 </div>
 
 <!-- Uncomment after running the "Generate Snake" workflow once (snake.yml) -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/sm-sazzad/sm-sazzad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
