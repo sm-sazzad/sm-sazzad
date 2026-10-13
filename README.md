@@ -78,6 +78,8 @@ I'm passionate about building **modern, fast and user-friendly** web experiences
 
 ## 🧭 Roadmap
 
+<div align="center">
+
 <i>Learn → Build → Improve → Grow</i>
 
 <table>
@@ -124,6 +126,8 @@ I'm passionate about building **modern, fast and user-friendly** web experiences
     </td>
   </tr>
 </table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:00d4ff&height=2&section=header" width="100%" />
 
