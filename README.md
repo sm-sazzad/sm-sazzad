@@ -132,11 +132,9 @@ flowchart LR
 </div>
 
 <!-- Uncomment after running the "Generate Snake" workflow once (snake.yml) -->
-<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/sm-sazzad/sm-sazzad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:00d4ff&height=2&section=header" width="100%" />
 
