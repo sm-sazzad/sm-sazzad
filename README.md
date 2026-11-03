@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/sm-sazzad"><img src="https://img.shields.io/badge/GitHub-sm--sazzad-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63" /></a>
+<a href="https://sazzad-dev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=302b63" /></a>
 <a href="https://www.linkedin.com/in/sm-sazzad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sazzadhossain5758@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=sm-sazzad&label=Visitors&color=a855f7&style=for-the-badge&labelColor=302b63" />
@@ -63,7 +63,13 @@ I'm passionate about building **modern, fast and user-friendly** web experiences
 ### ⚛️Frameworks & Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" alt="Frontend Technologies">
+  <!-- Frontend & Backend Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express" alt="Tech Stack" />
+  
+
+  <!-- Auth & Security Badges -->
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </div>
 
 ### 🛠️Tools & Platforms
@@ -123,6 +129,27 @@ I'm passionate about building **modern, fast and user-friendly** web experiences
     <td>
       <b>Better Auth</b><br/>
       Implement authentication and manage secure user sessions.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>07</b></td>
+    <td>
+      <b>Node.js</b><br/>
+      Build fast, scalable server-side applications and backend services.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>08</b></td>
+    <td>
+      <b>Express.js</b><br/>
+      Develop robust REST APIs, handle routing, and manage middleware.
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>09</b></td>
+    <td>
+      <b>JWT (JSON Web Tokens)</b><br/>
+      Implement stateless token-based authentication and secure APIs.
     </td>
   </tr>
 </table>
