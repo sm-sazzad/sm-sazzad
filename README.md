@@ -66,7 +66,7 @@ I'm passionate about building **modern, fast and user-friendly** web experiences
   <!-- Frontend & Backend Tech Icons -->
   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express" alt="Tech Stack" />
   
-
+</br>
   <!-- Auth & Security Badges -->
   <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge" alt="Better Auth" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
